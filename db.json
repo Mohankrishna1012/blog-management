@@ -1,0 +1,14 @@
+{
+  "posts": [
+    {
+      "id": "72fc",
+      "title": "blog 1",
+      "content": "this is my first blog post\n"
+    },
+    {
+      "id": "5c3d",
+      "title": "blog 2",
+      "content": "this is my second blog post"
+    }
+  ]
+}
